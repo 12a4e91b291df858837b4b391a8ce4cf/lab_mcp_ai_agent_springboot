@@ -1,4 +1,4 @@
 package com.example.agent.tools;
 
-public class AgentTool {
+public interface AgentTool {
 }
