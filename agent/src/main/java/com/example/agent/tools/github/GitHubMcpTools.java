@@ -41,4 +41,3 @@ public class GitHubMcpTools implements AgentTool {
         return "Issue created successfully: " + result;
     }
 }
-
