@@ -1,8 +1,9 @@
 package com.example.agent.tools.github;
 
+import com.example.agent.tools.AgentTool;
 import dev.langchain4j.agent.tool.P;
 import dev.langchain4j.agent.tool.Tool;
-import net.filecode.agent.mcp.McpHttpClient;
+import com.example.agent.mcp.McpHttpClient;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
